@@ -24,6 +24,7 @@ Because of how Discord is structured, my solution isn't exactly elegant. The plu
 - [ ] Discord throttles refresh rate if it is not focused. As a result, notifications may be delayed. (Currently no fix)
 - [ ] Check if switching panels in the background will interrupt
 - [ ] Will not work if currently in a PM (In progress)
+- [ ] Will sometimes not switch back correctly (In progress)
 
 ## License
 
