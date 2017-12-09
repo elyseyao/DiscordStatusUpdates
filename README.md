@@ -19,12 +19,11 @@ This is a plugin for [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp/r
 
 ## Note
 
-Because of how Discord is structured, my solution isn't exactly elegant. The plugin will rapidly switch to your friends list to parse the list before returning to your original screen. As far as I know, this shouldn't be very noticeable visually, but **may** interrupt you in the middle of typing.
+Because of how Discord is structured, my solution isn't exactly elegant. The plugin will rapidly switch to your friends list to parse the list before returning to your original screen. This may sometimes cause a slight flicker.
 
 ## Issues/Todo
 
 - [ ] Discord throttles refresh rate if it is not focused. As a result, notifications may be delayed. (Currently no fix)
-- [ ] Check if switching panels in the background will interrupt
 - [x] Will not work if currently in a PM (Fixed)
 - [x] Will sometimes not switch back correctly (Fixed)
 
