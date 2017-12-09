@@ -2,8 +2,6 @@
 
 Love Discord but miss the status notifications from Skype? I made a BetterDiscord plugin that'll notify you whenever someone on your friends list comes online or goes offline.
 
-NOTE: CURRENTLY VERY BUGGY, PLEASE CHECK ISSUES BELOW!
-
 ## Prerequisites
 
 What things you need to install the software and how to install them
